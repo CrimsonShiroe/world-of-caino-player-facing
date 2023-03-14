@@ -3,26 +3,13 @@ title: World of Caino
 enableToc: false
 ---
 
-[Changeling](notes/Changeling.md)
+Welcome to the World of Caino! Below you will find links to various pages containing any information you might want to know about the world as well as the features and abilities of the various ancestries you can choose from. It is recommnded to read the Six Truths of the World page to get a basic understanding of the world as well as the page on Caino Mechanics to help explain the unique game mechanics at work within Caino.
 
-[Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
+- Six Truths of the World
+- Lore
+- Caino Mechanics
+- Banned Spells
+- Character Creation
+- Minor Changes
 
-1. Extremely fast natural-language [[notes/search]]
-2. Customizable and hackable design based on [Hugo](https://gohugo.io/)
-3. Automatically generated backlinks, link previews, and local graph
-4. Built-in [[notes/CJK + Latex Support (测试) | CJK + Latex Support]] and [[notes/callouts | Admonition-style callouts]]
-5. Support for both Markdown Links and Wikilinks
-
-Check out some of the [amazing gardens that community members](notes/showcase.md) have published with Quartz or read about [why I made Quartz](notes/philosophy.md) to begin with.
-
-## Get Started
-> 📚 Step 1: [Setup your own digital garden using Quartz](notes/setup.md)
-
-Returning user? Figure out how to [[notes/updating|update]] your existing Quartz garden.
-
-If you prefer browsing the contents of this site through a list instead of a graph, you see a list of all [setup-related notes](/tags/setup).
-
-### Troubleshooting
-- 🚧 [Troubleshooting and FAQ](notes/troubleshooting.md)
-- 🐛 [Submit an Issue](https://github.com/jackyzha0/quartz/issues)
-- 👀 [Discord Community](https://discord.gg/cRFFHYye7t)
+[Mirror Tiefling](notes/Player%20Content/Ancestries/Tiefling%20(Mirror).md)
