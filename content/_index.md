@@ -3,7 +3,7 @@ title: World of Caino
 enableToc: false
 ---
 
-[Changeling](The World of Caino/Player Content\Ancestries/Changeling.md)
+[Changeling](The World of Caino/Player Content/Ancestries/Changeling.md)
 
 [Host your second brain and [digital garden](https://jzhao.xyz/posts/networked-thought) for free. Quartz features
 
