@@ -8,12 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "208d93ea47eb1c67",
+            "id": "eea5b6dba06d1554",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+                "file": "Player Content/Ancestries/Changeling.md",
                 "mode": "source",
                 "source": true
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+                "file": "Player Content/Ancestries/Changeling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+                "file": "Player Content/Ancestries/Changeling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md"
+                "file": "Player Content/Ancestries/Changeling.md"
               }
             }
           },
@@ -171,47 +171,47 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "6d62aab7d649f26f",
+  "active": "eea5b6dba06d1554",
   "lastOpenFiles": [
+    "Player Content/Feats/Defensive Duelist.md",
+    "Player Content/Feats/Tough.md",
+    "Player Content/Feats/Skilled.md",
+    "Player Content/Feats/Shield Master.md",
+    "Player Content/Feats/Savage Attacker.md",
+    "Player Content/Feats/Ritual Caster.md",
+    "Player Content/Feats/Mobile.md",
+    "Player Content/Feats/Martial Adept.md",
+    "Player Content/Feats/Magic Initiate.md",
+    "Player Content/Feats/Inspiring Leader.md",
+    "Player Content/Feats/Healer.md",
+    "Player Content/Feats/Grappler.md",
+    "Player Content/Feats/Elemental Adept.md",
+    "Player Content/Feats/Eldritch Adept.md",
+    "Player Content/Feats/Dual Wielder.md",
+    "DM Tools/Homebrew Rules/1st Level Feat.md",
+    "Player Content/Classes/Warlock.md",
+    "Player Content/Classes/Wizard.md",
+    "Player Content/Classes/Sorcerer.md",
+    "Player Content/Classes/Rogue.md",
+    "Player Content/Classes/Ranger.md",
+    "Player Content/Classes/Paladin.md",
+    "Player Content/Classes/Monk.md",
+    "Player Content/Classes/Fighter.md",
+    "Player Content/Classes/Druid.md",
+    "Player Content/Classes/Cleric.md",
+    "Player Content/Feats",
+    "Player Content/Classes",
+    "Player Content/Backgrounds",
+    "Player Content/Ancestries",
     "Player Content",
-    "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Locations/Westerwren.md",
-    "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
-    "Campaigns/Favor and Fortune/Session Notes/Session 1.md",
-    "Campaigns/Favor and Fortune/Session Notes/Session 0.md",
     "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Maps/Revai.webp",
     "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Maps/westerwren.png",
-    "DM Tools/Return of the Lazy Dungeon Master/Chapter 5 - Outline Potential Scenes.md",
-    "Campaigns/Favor and Fortune/Session Notes/Outline.md",
-    "Campaigns/Favor and Fortune/Session Notes/Campaign Primer.md",
-    "Campaigns/Favor and Fortune/Session Notes/Overview.md",
-    "DM Tools/Templates/Single-Page Lazy DM Prep Template.md",
-    "DM Tools/Templates/Session Prep List Template.md",
-    "DM Tools/Templates/Session 0 Template.md",
-    "DM Tools/Templates/Village, Town, and City Template.md",
     "Campaigns/Favor and Fortune/World Machine.canvas",
-    "Campaigns/Favor and Fortune/Non-Player Characters/Venetta Jehane.md",
-    "Campaigns/Favor and Fortune/Non-Player Characters/Darius Garnell.md",
-    "Campaigns/Favor and Fortune/Non-Player Characters/Bennet Thurlow.md",
-    "DM Tools/Random Tables/Building Situations Tables.md",
-    "DM Tools/Random Tables/Random Traps.md",
-    "DM Tools/Player Options/Class/Wizard.md",
-    "DM Tools/Player Options/Class/Warlock.md",
-    "DM Tools/Player Options/Class/Sorcerer.md",
-    "DM Tools/Player Options/Class/Rogue.md",
-    "DM Tools/Player Options/Class/Ranger.md",
-    "DM Tools/Player Options/Class/Paladin.md",
-    "DM Tools/Player Options/Class/Monk.md",
-    "DM Tools/Player Options/Class/Fighter.md",
     "DM Tools/Player Options/Class",
     "DM Tools/Player Options/Backgrounds",
     "DM Tools/Player Options/Ancestry",
     "DM Tools/Player Options",
     "DM Tools/Terminology",
-    "DM Tools/Lazy Dungeon Master Companion",
-    "DM Tools/Return of the Lazy Dungeon Master/Untitled",
-    "Campaigns/Template/Villains",
-    "Campaigns/Template/Non-Player Characters",
-    "Campaigns/Template/Locations",
     "Campaigns/Template/World Machine.canvas",
     "Atlas/Prime Material/Harbinger/Caino/Regions/Kingdom of Golan/Maps/Golan.webp",
     "Atlas/Prime Material/Harbinger/Caino/Regions/Kingdom of Belond/Maps/Belond.webp",
