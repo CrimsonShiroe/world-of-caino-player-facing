@@ -12,4 +12,4 @@ Welcome to the World of Caino! Below you will find links to various pages contai
 - Character Creation
 - Minor Changes
 
-[Mirror Tiefling](notes/Player%20Content/Ancestries/Tiefling%20(Mirror).md)
+[Mirror Tiefling](notes/PlayerContent/Ancestries/Tiefling(Mirror).md)
