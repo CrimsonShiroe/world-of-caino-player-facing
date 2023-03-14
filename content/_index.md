@@ -13,3 +13,4 @@ Welcome to the World of Caino! Below you will find links to various pages contai
 - Minor Changes
 
 [Mirror Tiefling](notes/PlayerContent/Ancestries/Tiefling(Mirror).md)
+[Orc](notes/PlayerContent/Ancestries/Orc.md)
