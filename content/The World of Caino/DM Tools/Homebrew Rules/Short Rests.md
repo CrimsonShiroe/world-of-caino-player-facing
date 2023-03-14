@@ -1,1 +1,0 @@
-Short Rests take only 10 minutes to complete, rather than 1 hour. However, a creature can only gain the benefits of a Short Rest once per hour.

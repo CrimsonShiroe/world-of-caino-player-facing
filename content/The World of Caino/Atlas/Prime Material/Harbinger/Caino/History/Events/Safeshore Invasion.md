@@ -1,1 +1,0 @@
-The Safeshore Invasion was a military conquest of the island of Safeshore off the western coast of Revai. Revaian forces invaded the island and crushed its inhabitants, establishing a new Region of Revai.

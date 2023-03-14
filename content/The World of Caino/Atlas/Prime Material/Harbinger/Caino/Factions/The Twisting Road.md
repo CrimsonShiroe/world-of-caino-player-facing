@@ -1,1 +1,0 @@
-The Twisting Road is a secretive band of barkeeps across Caino. They act as a force of Good within the world, pushing adventurers down certain paths that they deem will end in the betterment of all of Caino. 

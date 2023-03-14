@@ -1,1 +1,0 @@
-The Greenbrothers are a secretive organization. Most people, including the upper eschelons of governments, are completely unaware of their existence. Additionally, they are some of the only people who know the true nature of the Yggdrasil tree located near the Feywoods on Golan, and they work in the shadows to free their master trapped within.
