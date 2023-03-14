@@ -1,0 +1,220 @@
+{
+  "main": {
+    "id": "6700a6867e1fd281",
+    "type": "split",
+    "children": [
+      {
+        "id": "23ecb7c3e69e7c07",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "208d93ea47eb1c67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+                "mode": "source",
+                "source": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0d6cd551316894e",
+    "type": "split",
+    "children": [
+      {
+        "id": "a03c6a85eb5df844",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6d62aab7d649f26f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "01b3aba117c8c3d1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "13be8c95c6742f1c",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "b97b14ea6b86c776",
+    "type": "split",
+    "children": [
+      {
+        "id": "c62336378ab686fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "254708d4c8ce189a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d68fc37f8d106a31",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f83d6ec36a697a99",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "52f5344b6d62869a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md"
+              }
+            }
+          },
+          {
+            "id": "910d365860dc5290",
+            "type": "leaf",
+            "state": {
+              "type": "DICE_ROLLER_VIEW",
+              "state": {}
+            }
+          },
+          {
+            "id": "3025b82529c49738",
+            "type": "leaf",
+            "state": {
+              "type": "initiative-tracker-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "0ac73224198eb442",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "6d62aab7d649f26f",
+  "lastOpenFiles": [
+    "Player Content",
+    "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Locations/Westerwren.md",
+    "DM Tools/Return of the Lazy Dungeon Master/Chapter 7 - Develop Fantastic Locations.md",
+    "Campaigns/Favor and Fortune/Session Notes/Session 1.md",
+    "Campaigns/Favor and Fortune/Session Notes/Session 0.md",
+    "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Maps/Revai.webp",
+    "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Maps/westerwren.png",
+    "DM Tools/Return of the Lazy Dungeon Master/Chapter 5 - Outline Potential Scenes.md",
+    "Campaigns/Favor and Fortune/Session Notes/Outline.md",
+    "Campaigns/Favor and Fortune/Session Notes/Campaign Primer.md",
+    "Campaigns/Favor and Fortune/Session Notes/Overview.md",
+    "DM Tools/Templates/Single-Page Lazy DM Prep Template.md",
+    "DM Tools/Templates/Session Prep List Template.md",
+    "DM Tools/Templates/Session 0 Template.md",
+    "DM Tools/Templates/Village, Town, and City Template.md",
+    "Campaigns/Favor and Fortune/World Machine.canvas",
+    "Campaigns/Favor and Fortune/Non-Player Characters/Venetta Jehane.md",
+    "Campaigns/Favor and Fortune/Non-Player Characters/Darius Garnell.md",
+    "Campaigns/Favor and Fortune/Non-Player Characters/Bennet Thurlow.md",
+    "DM Tools/Random Tables/Building Situations Tables.md",
+    "DM Tools/Random Tables/Random Traps.md",
+    "DM Tools/Player Options/Class/Wizard.md",
+    "DM Tools/Player Options/Class/Warlock.md",
+    "DM Tools/Player Options/Class/Sorcerer.md",
+    "DM Tools/Player Options/Class/Rogue.md",
+    "DM Tools/Player Options/Class/Ranger.md",
+    "DM Tools/Player Options/Class/Paladin.md",
+    "DM Tools/Player Options/Class/Monk.md",
+    "DM Tools/Player Options/Class/Fighter.md",
+    "DM Tools/Player Options/Class",
+    "DM Tools/Player Options/Backgrounds",
+    "DM Tools/Player Options/Ancestry",
+    "DM Tools/Player Options",
+    "DM Tools/Terminology",
+    "DM Tools/Lazy Dungeon Master Companion",
+    "DM Tools/Return of the Lazy Dungeon Master/Untitled",
+    "Campaigns/Template/Villains",
+    "Campaigns/Template/Non-Player Characters",
+    "Campaigns/Template/Locations",
+    "Campaigns/Template/World Machine.canvas",
+    "Atlas/Prime Material/Harbinger/Caino/Regions/Kingdom of Golan/Maps/Golan.webp",
+    "Atlas/Prime Material/Harbinger/Caino/Regions/Kingdom of Belond/Maps/Belond.webp",
+    "Atlas/Prime Material/Harbinger/Caino/Regions/Vaults of Revai/Revai Map.canvas"
+  ]
+}

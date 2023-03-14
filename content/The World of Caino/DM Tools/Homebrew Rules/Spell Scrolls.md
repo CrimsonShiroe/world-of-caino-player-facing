@@ -1,0 +1,1 @@
+Spell Scrolls do not require any kind of check to make use of and one does not need to be a Spellcaster to use Spell Scrolls effectively. One simply needs to hold the Spell Scroll in hand and recite off the incantation written upon it.
