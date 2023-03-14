@@ -6,7 +6,7 @@ Testing testing
 
 Testing link to Orc from Mirror Tiefling
 
-[[PlayerContent/Ancestries/Orc]]
+[Orc](PlayerContent/Ancestries/Orc)
 
 Testing link to Human from Mirror Tiefling with text
 
